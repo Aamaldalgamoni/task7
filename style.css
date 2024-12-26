@@ -1,0 +1,505 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+width: 100%;
+background-color: #35736E;
+height: 629.07px;
+}
+
+.nav{
+    display: flex;
+    width: 1400px;
+    gap: 0px;
+    opacity: 0px;
+    background-color:  #35736E;
+}
+ .logo{
+        font-family: 'Post No Bills Colombo ExtraBold';
+        font-style: normal;
+        color: #FFD748;  
+        font-size: 51.3333px; 
+        width: 60px;
+        height: 77px;
+         margin-top: 8.4px;
+       margin-left: 32.67px;
+        gap: 0px;
+        opacity: 0px;
+
+}
+
+.nav .logo h1{
+
+    display: inline-block;
+    color:#FFD748;
+    font-family: Post No Bills Colombo ExtraBold;
+    margin-left: 10px;
+     font-size: 51.33px;
+      font-weight: 800;
+      line-height: 76.75px;
+       text-align: left;
+       text-underline-position: from-font;
+       text-decoration-skip-ink: none;
+
+}
+.nav .home h1{
+    display: inline-block;
+    color: aliceblue;
+    width: 56px;
+    font-family: Poppins;
+     font-size: 18.67px;
+     font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+     text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.nav .Aboutus h1{
+    display: inline-block;
+    color: aliceblue;
+    width: 83px;
+    font-family: Poppins;
+     font-size: 18.67px;
+     font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    
+
+}
+.nav .Services h1{
+    display: inline-block;
+    color: aliceblue;
+    width: 78px;
+
+    font-family: Poppins;
+     font-size: 18.67px;
+     font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+   
+
+}
+.nav .Blogs h1{
+    display: inline-block;
+    color: aliceblue;
+    width: 41px;
+    font-family: Poppins;
+     font-size: 18.67px;
+     font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+     text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.nav .contactus h1{
+    color: aliceblue;
+    width: 103px;
+    font-family: Poppins;
+     font-size: 18.67px;
+     font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+     text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+.iqon1{
+    width: 32.67px;
+height: 32.67px;
+top: 23.33px;
+left: 1297.33px;
+gap: 0px;
+opacity: 0px;
+
+}
+.couch1{
+position: absolute;
+width: 756px;
+height: 542.53px;
+top: 126.93px;
+left: 561.87px;
+gap: 0px;
+opacity: 0px;
+
+}
+.text
+{
+position: absolute;
+width: 505.87px;
+height: 140px;
+top: 221.2px;
+left: 92.4px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.text p{
+    color: aliceblue;
+    font-family: DM Serif Text;
+font-size: 51.33px;
+font-weight: 400;
+line-height: 70.38px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.shopnow{
+position: absolute;
+background-color: #FFD748;
+width: 149.33px;
+ height: 46.67px;
+top: 429.33px;
+left: 104.53px;
+ gap: 0px;
+border-radius: 28px 28px 28px 28px;
+opacity: 0px;
+
+}
+.btn{
+border-radius: 28px;
+width: 149.33px;
+height: 46.67px;
+color: black;
+position:absolute;
+top: 429.33px;
+}
+.container {
+margin-top: 50px;
+/*background-color: aliceblue;*/
+}
+.product-card {
+background-color:   #35736E1A;
+
+
+border: 1px solid #e0e0e0;
+border-radius: 10px;
+padding: 20px;
+text-align: center;
+}
+.product-card img {
+max-width: 100%;
+position: relative;
+height:-40%;
+border-radius: 10px;
+display: flex;
+top: -80px;
+
+
+
+
+
+}
+.product-card h5 {
+margin-top: 15px;
+font-size: 18px;
+}
+.product-card p {
+font-size: 16px;
+color: black;
+}
+.explore-btn {
+background-color: #2c7a7b;
+color:aliceblue;
+border: none;
+padding: 10px 20px;
+border-radius: 100px;
+cursor: pointer;
+width:150px
+}
+.explore-btn:hover {
+background-color: #285e61;
+}
+
+.s{
+margin-left: 30px;
+}
+.s h1{
+font-family: Inter;
+font-size: 31.73px;
+font-weight: 600;
+line-height: 38.27px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.s p{
+color:  #6A6A6A;
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
+.e{ 
+position:relative;
+display: flex;
+flex-wrap: wrap;
+width: 500px;
+}
+.e1{
+
+margin-left: 30px;
+
+}
+.e1 .e11{
+position: relative;
+}
+.e1 .e111 {
+position: absolute;
+margin-left: -40px;
+}
+.e1 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e1 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+.e1{
+
+margin-left: 30px;
+}
+.e1 .e11{
+position: relative;
+}
+.e1 .e111 {
+position: absolute;
+margin-left: -40px;
+}
+.e1 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e1 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+.e1{
+
+margin-left: 30px;
+}
+.e1 .e11{
+position: relative;
+}
+.e1 .e111 {
+position: absolute;
+margin-left: -40px;
+}
+.e1 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e1 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+.e2{
+
+margin-left: 30px;
+}
+.e2 .e22{
+position: relative;
+}
+.e2 .e222 {
+position: absolute;
+margin-left: -40px;
+}
+.e2 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e2 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+.e3{
+
+margin-left: 30px;
+}
+.e3 .e33{
+position: relative;
+}
+.e3 .e333 {
+position: absolute;
+margin-left: -40px;
+}
+.e3 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e3 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+.e4{
+
+margin-left: 30px;
+}
+.e4 .e44{
+position: relative;
+}
+.e4 .e444 {
+position: absolute;
+margin-left: -40px;
+}
+.e4 h2{
+font-family: Poppins;
+font-size: 13.07px;
+font-weight: 600;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.e4 p{
+font-family: Inter;
+font-size: 13.07px;
+font-weight: 400;
+line-height: 20.53px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color:  #6A6A6A;
+}
+
+.product-section {
+display: flex;
+justify-content: space-around;
+
+padding: 2rem;
+background-color: #f9f9f9;
+
+}
+
+.product {
+text-align: center;
+max-width: 250px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+
+.product img {
+width: 70%;
+border-radius: 8px;
+}
+
+.product h3 {
+font-size: 1.1rem;
+margin: 0.5rem 0;
+color: #333;
+width:160%;
+
+}
+
+.product p {
+font-size: 0.9rem;
+color: #666;
+margin: 0.5rem 0;
+width: 170%;
+
+}
+
+.product a {
+text-decoration: none;
+color: #007BFF;
+font-size: 0.9rem;
+}
+.tis{
+text-align: center;
+}
+.tis h1,p{
+text-align: center;
+}
+.tis h1{
+font-family: Poppins;
+font-size: 31.73px;
+font-weight: 600;
+line-height: 38.27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+.tis p{
+font-family: Inter;
+font-size: 16.8px;
+font-weight: 400;
+line-height: 29.87px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+}
